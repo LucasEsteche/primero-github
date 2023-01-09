@@ -1,2 +1,1 @@
-# primero-github
-repositorio de prueba m2
+este proyecto es la primer prueba de hacer un repositorio en github
